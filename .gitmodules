@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "argminCS"]
+	path = argminCS
+	url = https://github.com/xu3cl4/argmincs
